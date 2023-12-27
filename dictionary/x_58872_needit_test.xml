@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b6ec017d471bf510aaf86d1f316d430d" label="Test1" max_length="40" name="x_58872_needit_test" type="collection">
+        <element choice="1" label="Demo" max_length="40" name="demo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Demo1" value="Demo1"/>
+            </choice>
+        </element>
+    </element>
+</database>
